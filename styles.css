@@ -1,0 +1,108 @@
+/* Estilos generales */
+.pagina {
+    background-color: #F7F3EC;
+    color: #24343A;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+}
+
+/* Encabezado y navegación */
+.encabezado {
+    background-color: #1F4D4F;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.marca {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.navegacion {
+    background-color: #D9825B;
+}
+
+.enlace-menu {
+    color: #FFFFFF;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/* Contenido */
+.seccion {
+    background-color: #FFFFFF;
+}
+
+.seccion-destacada {
+    background-color: #F0E7DC;
+}
+
+.titulo-principal {
+    color: #1F4D4F;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.titulo-seccion {
+    color: #D9825B;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+
+.titulo-tarjeta {
+    color: #1F4D4F;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.texto {
+    color: #24343A;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.tarjeta {
+    background-color: #F7F3EC;
+}
+
+.figura {
+    text-align: center;
+}
+
+.epigrafe {
+    color: #5A666A;
+    font-size: 0.9rem;
+}
+
+/* Formulario */
+.formulario {
+    background-color: #FFFFFF;
+}
+
+.etiqueta {
+    color: #1F4D4F;
+    font-weight: 600;
+}
+
+.campo {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.boton {
+    background-color: #D9825B;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+/* Pie de página */
+.pie {
+    background-color: #24343A;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.enlace-pie {
+    color: #F2C9A5;
+    text-decoration: none;
+}
